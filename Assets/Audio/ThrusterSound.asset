@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88afff587ce24fabaf49c4479979414f, type: 3}
+  m_Name: ThrusterSound
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: a9444f35c4b0ebf468b14778b534a8d3, type: 3}
+  - {fileID: 8300000, guid: d3029fa23e7d47645a734b80308fa7fd, type: 3}
+  - {fileID: 8300000, guid: 52f2f09cdea64c44eab917a901a120dc, type: 3}
+  - {fileID: 8300000, guid: 0ed268d73acd2934ab7b828078d56283, type: 3}
+  - {fileID: 8300000, guid: 2bd4ac29cb004d34f886036c009a1e99, type: 3}
